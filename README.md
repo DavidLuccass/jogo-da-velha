@@ -6,7 +6,7 @@
 | B |❌ |⭕|⭕|
 | C |❌|❌|⭕|
 
-**Legenda**
+**JOGADORES**
 
 - ❌ Lucas 1
 - ⭕ Lucas 2
